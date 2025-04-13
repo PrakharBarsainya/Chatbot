@@ -25,3 +25,4 @@ This project is a sleek and responsive AI Chatbot interface built with Gemini AP
 
 🚀 Beginner-Friendly: Great project for learning how to connect frontends with AI APIs and work with asynchronous JS.
 
+![image](https://github.com/user-attachments/assets/664d6c2b-f5e1-4385-b29d-7fdacdca73dc)
